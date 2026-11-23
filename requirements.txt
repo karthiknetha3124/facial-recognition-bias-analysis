@@ -1,0 +1,15 @@
+# Core runtime
+streamlit>=1.40,<2
+opencv-contrib-python>=4.10,<5
+numpy>=1.26,<2
+pandas>=2.2,<3
+scipy>=1.14,<2
+scikit-learn>=1.5,<2
+plotly>=5.24,<7
+PyYAML>=6,<7
+
+# Fairness and evaluation
+fairlearn>=0.12,<1
+
+# Development and testing
+pytest>=8.3,<9
